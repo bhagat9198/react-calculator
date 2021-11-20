@@ -1,0 +1,39 @@
+.calcNumRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.eachBtn {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+
+.clearBtn {
+  width: 60px;
+  height: 30px;
+  text-align: center;
+}
+
+.red {
+  color: wheat;
+  background-color: red;
+}
+
+.green {
+  color: white;
+  background-color: green;
+  text-align: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.resultBar {
+  align-items: flex-end;
+  width: 100%;
+}
+
+.disableBtn {
+  background-color: gray;
+  color: wheat;
+}
